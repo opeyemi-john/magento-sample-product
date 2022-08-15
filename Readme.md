@@ -1,4 +1,4 @@
-# CREATE MAGENTO APP create product programtically project
+# Create product programtically magento project
 
 ## Installation
 
